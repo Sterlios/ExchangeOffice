@@ -1,0 +1,6 @@
+@CurrencyRateService_HostAddress = http://localhost:5145
+
+GET {{CurrencyRateService_HostAddress}}
+Accept: application/json
+
+###
